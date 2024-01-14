@@ -3,7 +3,7 @@ body{
 }
 .blur1{
   
-  width:51%;
+  width:50%;
   border-style:solid;
   height:100%;
   top:0;
@@ -24,7 +24,7 @@ border: none;
 }
 .blur2{
   border: none;
-  width:50%;
+  width:51%;
   
   height:100%;
   right:0;
